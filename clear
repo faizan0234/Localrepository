@@ -1,0 +1,17 @@
+[1mdiff --git a/indexx.html b/indexx.html[m
+[1mindex 659d13c..4187085 100644[m
+[1m--- a/indexx.html[m
+[1m+++ b/indexx.html[m
+[36m@@ -1 +1 @@[m
+[31m-<p>This is a new Repository(button)</p>[m
+\ No newline at end of file[m
+[32m+[m[32m<p>This is a new Repository(dropdown)</p>[m
+[1mdiff --git a/readme.md b/readme.md[m
+[1mindex daea3f7..ddab657 100644[m
+[1m--- a/readme.md[m
+[1m+++ b/readme.md[m
+[36m@@ -1,2 +1,3 @@[m
+ # This is my new readme file[m
+ Feature1 is running[m
+[32m+[m[32mmerge okk[m
+\ No newline at end of file[m
